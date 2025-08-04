@@ -1,5 +1,6 @@
 import InitialCourses from "@/components/Courses/InitialCourses";
 import FeaturedCourses from "@/components/FeaturedCourses/featureCourses";
+import Footer from "@/components/Footer/footer";
 import Header from "@/components/Header/header";
 import ImageBackground from "@/components/ImageBackground/ImageBackground";
 import playlists from "@/db.json";
@@ -37,6 +38,7 @@ export default function Home() {
         />
         <FeaturedCourses />
       </section>
+      <Footer />
     </main>
   );
 }

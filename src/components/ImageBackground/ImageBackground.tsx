@@ -5,7 +5,7 @@ import { MdNavigateNext } from "react-icons/md";
 
 export default function ImageBackground() {
     return(
-        <section className="relative h-[520px] overflow-hidden mb-6">
+        <section className="relative h-[520px] overflow-hidden mb-6 pt-18">
         <div className="absolute inset-0 bg-gradient-to-r from-slate-950 to-slate-950/60 z-10"></div>
         <Image
           src="/foto1.jpg"
@@ -26,7 +26,7 @@ export default function ImageBackground() {
           <div
             className='flex items-center mt-3'>
                 <Link
-                href=""
+                href="#initial-courses"
                 className="bg-red-500 hover:bg-red-600 text-white flex items-center justify-center font-semibold py-2 px-4 rounded-lg mt-6 transition-colors">
                     Começar Agora
                     <MdNavigateNext className="inline-block ml-1 text-[16px]" />

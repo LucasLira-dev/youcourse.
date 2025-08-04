@@ -1,9 +1,8 @@
 import Image from "next/image";
-import ThemeToggle from "../ThemeToggle";
 
 export default function Header() {
     return(
-        <header className="flex items-center justify-between p-4 bg-[var(--background)] text-[var(--card-foreground)] border-b border-border">
+        <header className="flex items-center justify-between p-4 bg-[var(--background)] text-[var(--card-foreground)] border-b border-border fixed top-0 left-0 right-0 z-50">
             <div className="flex items-center gap-3">
                 <Image 
                 src="/youCourse-logo.png" 
@@ -26,7 +25,6 @@ export default function Header() {
                         Favoritos
                     </a>
                 </nav>
-                <ThemeToggle />
             </div>
         </header>
     )

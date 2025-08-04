@@ -48,10 +48,12 @@ export default function InitialCourses({ javascriptCourses, pythonCourses }: Cou
     const isFavorite = (courseId: number) => favoriteeCourses.includes(courseId);
 
     return(
-        <section className="flex flex-col bg-[var(--background)] text-[var(--foreground)]">
+        <section 
+        className="flex flex-col bg-[var(--background)] text-[var(--foreground)]"
+        id="initial-courses">
             <Tabs defaultValue="javascript">
                 <div
-                className="flex justify-between items-center p-4 text-[var(--card-foreground)]">
+                className="flex justify-between items-center px-4 text-[var(--card-foreground)]">
                     <TabsList 
                     className="max-w-[200px] px-2 py-6 bg-[var(--card)]">
                         <TabsTrigger 
