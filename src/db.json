@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "curso": "JavaScript",
+        "canal": "Curso em Vídeo",
+        "imgPlaylist": "https://i.ytimg.com/vi/1-w1RfGIov4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSwaSfu4dcZJT_NKQFGkXO6ksI-A",
+        "LinkPlaylist": "https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=Jnr1-vbHg38E2SXp",
+        "professor": "Gustavo Guanabara",
+        "aulas": "33"
+    },
+    {
+        "id": 2,
+        "curso": "JavaScript",
+        "canal": "Hora de Codar",
+        "imgPlaylist": "https://i.ytimg.com/vi/TkD0QMyBa28/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDayN4BGLofo-W7_nQjfqZ92OY8Kg",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6",
+        "aulas": "92"
+    },
+    {
+        "id": 3,
+        "curso": "JavaScript",
+        "canal": "CFBCursos",
+        "imgPlaylist": "https://i.ytimg.com/vi/E4DBTqgxHGM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnMQHvi6hEv6yIcZSvBV6gs6BiSg",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T",
+        "aulas": "266"
+    },
+    {
+        "id": 4,
+        "curso": "JavaScript",
+        "canal": "Programação Web",
+        "imgPlaylist": "https://i.ytimg.com/vi/vEwPnjqWQ-g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDVDM-_jZmboeOUoZL8mKeWwJUEqQ",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=vEwPnjqWQ-g&list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw",
+        "aulas": "20"
+    },
+    {
+        "id": 5,
+        "curso": "JavaScript",
+        "canal": "Professor Edson Maia",
+        "imgPlaylist": "https://i.ytimg.com/vi/E1Ww5Y1EnWQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRGOT_-QcaxVA7LXxQ3ixURhWu9A",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=E1Ww5Y1EnWQ&list=PLnex8IkmReXxZEXje06kW1uCwm5iC8M_Z",
+        "aulas": "115"
+    },
+    {
+        "id": 6,
+        "curso": "React",
+        "canal": "Hora de Codar",
+        "imgPlaylist": "https://i.ytimg.com/vi/FXqX7oof0I4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjM1099oU0ZIgUdGIdyC-P47hC_w",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO",
+        "aulas": "61"
+    },
+    {
+        "id": 7,
+        "curso": "React",
+        "canal": "Professor Edson Maia",
+        "imgPlaylist": "https://i.ytimg.com/vi/KsFLXOTflsM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDto0471vAgddI0hqjoaN7bB5EIZw",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=KsFLXOTflsM&list=PLnex8IkmReXyNgtea8ly0Pn7Kk7Kavn9v",
+        "aulas": "50"
+    },
+    {
+        "id": 8,
+        "curso": "React",
+        "canal": "Desenvolvendo o básico",
+        "imgPlaylist": "https://i.ytimg.com/vi/pFgApiE6ZmQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmDb5jLMi97cNVXGA_VQsIjPo7SQ",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=pFgApiE6ZmQ&list=PLedVhPP7RyiKOiiGMTMYil3yTEoOxO7CK",
+        "aulas": "82"
+    },
+    {
+        "id": 9,
+        "curso": "React",
+        "canal": "CFBCursos",
+        "imgPlaylist": "https://i.ytimg.com/vi/1LhX2u6_BJE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTnHcuDFYVaQIdC_JG619jNK39MA",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=1LhX2u6_BJE&list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC",
+        "aulas": "44"
+    },
+    {
+        "id": 10,
+        "curso": "React",
+        "canal": "João Ribeiro",
+        "imgPlaylist": "https://i.ytimg.com/vi/F7fJm_IMM_8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvIbrzs4Z2VMAODONuXdLwSnzfiw",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=F7fJm_IMM_8&list=PLXik_5Br-zO_47e0Zdjog8t2z76Fhlf9M",
+        "aulas": "63"
+    },
+    {
+        "id": 11,
+        "curso": "Python",
+        "canal": "Curso em Vídeo",
+        "imgPlaylist": "https://i.ytimg.com/vi/S9uPNppGsGo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBECr25WhLimcLcmDYlc18sVPLRuA",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "aulas": "47"
+    },
+    {
+        "id": 12,
+        "curso": "Python",
+        "canal": "Ignorância Zero",
+        "imgPlaylist": "https://i.ytimg.com/vi/lJjR906426o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYvKr6SXUyJFAcgyUGZ6vaw585Ow", 
+        "LinkPlaylist": "https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe",
+        "aulas": "152"
+    },
+    {
+        "id": 13,
+        "curso": "Python",
+        "canal": "CFBCursos",
+        "imgPlaylist": "https://i.ytimg.com/vi/Ay-MakuSg08/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCZXFGLK80IWHgzOKGSp8V3wkTo0g",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR",
+        "aulas": "86"
+    },
+    {
+        "id": 14,
+        "curso": "Python",
+        "canal": "Professor Edson Maia",
+        "imgPlaylist": "https://i.ytimg.com/vi/XAQG9D8IZII/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOf7bBTmL9DpAK_koZJNXj-nXROA",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=XAQG9D8IZII&list=PLnex8IkmReXz5CF83aRmZjLWV25MWfAdh",
+        "aulas": "12"
+    },
+    {
+        "id": 15,
+        "curso": "Python",
+        "canal": "Programação Dinâmica",
+        "imgPlaylist": "https://i.ytimg.com/vi/pfasFXj2nAA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBD0xvYcHz7fgrxD4lEoedG6PiAhw",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=pfasFXj2nAA&list=PL5TJqBvpXQv55oh1fRrBol4LSKEqUbVD0",
+        "aulas": "36"
+    },
+    {
+        "id": 16,
+        "curso": "Java",
+        "canal": "CFBCursos",
+        "imgPlaylist": "https://i.ytimg.com/vi/X8AnVQ-GqLU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDzL2Zpcq4gdDck6RMJbC_n4DjoJQ",
+        "LinkPlaylist": "https://youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW&si=0FndAqt0LPQho7MX",
+        "aulas": "52"
+    },{
+        "id": 17,
+        "curso": "Java",
+        "canal": "Fernanda Kipper",
+        "imgPlaylist": "https://i.ytimg.com/vi/nODe5lFcGpg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDxaWRDk6Z-KT_iajgs5mOwQI8Pg",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=nODe5lFcGpg&list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb",
+        "aulas": "11"
+    },
+    {
+        "id": 18,
+        "curso": "Java",
+        "canal": "Bóson Treinamentos",
+        "imgPlaylist": "https://i.ytimg.com/vi/KeDhlDXezMs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4qUdrqoYZNP950WLDNZQC-QZqJw",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=KeDhlDXezMs&list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc",
+        "aulas": "27"
+    },
+    {
+        "id": 19,
+        "curso": "Java",
+        "canal": "DevDojo",
+        "imgPlaylist": "https://i.ytimg.com/vi/kkOSweUhGZM/hq720.jpg?sqp=-oaymwEXCOgCEMoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD21pNXsoulfzpppiXJgoQN6cTo1g",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL",
+        "aulas": "210"
+    },
+    {
+        "id": 20,
+        "curso": "Java",
+        "canal": "Curso em Vídeo",
+        "imgPlaylist": "https://i.ytimg.com/vi/sTX0UEplF54/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-hPQfjSOMEvcBzIkZF_3ZquVJ4A",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR",
+        "aulas": "30"
+    },
+    {
+        "id": 21,
+        "curso": "PHP",
+        "canal": "Curso em Vídeo",
+        "imgPlaylist": "https://i.ytimg.com/vi/TfsO0BGvGn0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCaNFewY1dvP9871fh1PrIoGr17Ag",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=TfsO0BGvGn0&list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_",
+        "aulas": "44"
+    },
+    {
+        "id": 22,
+        "curso": "PHP",
+        "canal": "Node Studio Treinamentos",
+        "imgPlaylist": "https://i.ytimg.com/vi/XwpsxPmQN2E/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMOmUzse91zBVbCiin8z5HhQv85g",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I",
+        "aulas": "27"
+    },
+    {
+        "id": 23,
+        "curso": "PHP",
+        "canal": "Curso em Vídeo",
+        "imgPlaylist": "https://i.ytimg.com/vi/F7KzJ7e6EAc/hqdefault.jpg",
+        "LinkPlaylist": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k",
+        "aulas": "24"
+    },
+    {
+        "id": 24,
+        "curso": "PHP",
+        "canal": "Professor Edson Maia",
+        "imgPlaylist": "https://i.ytimg.com/vi/FF7TLRNic-8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA73mRQrmBjhlbZy3eQMyVnoSHajQ",
+        "LinkPlaylist": "https://www.youtube.com/watch?v=FF7TLRNic-8&list=PLnex8IkmReXw-QlzKS9zA3rXQsRnK5nnA",
+        "aulas": "28"
+    },
+    {
+        "id": 25,
+        "curso": "PHP",
+        "canal":"João Ribeiro",
+        "imgPlaylist": "https://i.ytimg.com/vi/iDEuQjITm0E/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA9vbhRuNQ2o90coEvAcvmU4lSsJw",
+        "LinkPlaylist": "https://youtube.com/playlist?list=PLXik_5Br-zO9Z8l3CE8zaIBkVWjHOboeL&si=hKu-bFDWr9fX4Xuv",
+        "aulas": "127"
+    }
+]
