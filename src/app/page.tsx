@@ -1,4 +1,5 @@
-import Courses from "@/components/Courses/InitialCourses";
+import InitialCourses from "@/components/Courses/InitialCourses";
+import FeaturedCourses from "@/components/FeaturedCourses/featureCourses";
 import Header from "@/components/Header/header";
 import ImageBackground from "@/components/ImageBackground/ImageBackground";
 import playlists from "@/db.json";
@@ -25,13 +26,17 @@ export default function Home() {
 
 
   return (
-    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
+    <main className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
       <Header />
       <ImageBackground />
-      <Courses 
-      javascriptCourses={javascriptCourses}
-      pythonCourses={pythonCourses}
-      />
-    </div>
+      <section
+      className="sm:px-14 sm:py-12">
+        <InitialCourses
+          javascriptCourses={javascriptCourses}
+          pythonCourses={pythonCourses}
+        />
+        <FeaturedCourses />
+      </section>
+    </main>
   );
 }

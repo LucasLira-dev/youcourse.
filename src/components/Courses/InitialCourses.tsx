@@ -48,7 +48,7 @@ export default function InitialCourses({ javascriptCourses, pythonCourses }: Cou
     const isFavorite = (courseId: number) => favoriteeCourses.includes(courseId);
 
     return(
-        <section className="flex flex-col min-h-screen bg-[var(--background)] text-[var(--foreground)]">
+        <section className="flex flex-col bg-[var(--background)] text-[var(--foreground)]">
             <Tabs defaultValue="javascript">
                 <div
                 className="flex justify-between items-center p-4 text-[var(--card-foreground)]">
@@ -65,7 +65,7 @@ export default function InitialCourses({ javascriptCourses, pythonCourses }: Cou
                             Python
                         </TabsTrigger>
                     </TabsList>
-                    <Link href="/cursos" className="mt-4 text-md text-[var(--primary)] font-semibold hover:underline">
+                    <Link href="/cursos" className=" text-md text-[var(--primary)] font-semibold hover:underline">
                         Ver cursos
                         <MdNavigateNext className="inline-block ml-1" />
                     </Link>
