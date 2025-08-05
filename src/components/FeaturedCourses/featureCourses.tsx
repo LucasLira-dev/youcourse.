@@ -6,19 +6,19 @@ const specialsCourses = [
         id: 1,
         title: "React para Iniciantes",
         descrição: "Aprenda os fundamentos do React e construa interfaces de usuário interativas",
-        link: "/cursos/desenvolvimento-web",
+        link: "/cursos",
     },
     {
         id: 2,
         title: "Python Completo",
         descrição: "Do básico ao avançado, aprenda Python para automação, web e ciência de dados",
-        link: "/cursos/canal-2"
+        link: "/cursos"
     },
     {
         id: 3,
         title: "Javascript Avançado",
         descrição: "Do básico ao avançado, aprenda Javascript para desenvolvimento de aplicações web modernas.",
-        link: "/cursos/canal-3"
+        link: "/cursos"
     }
 ]
 
