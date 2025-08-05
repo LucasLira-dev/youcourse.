@@ -4,8 +4,8 @@ import { MdNavigateNext } from "react-icons/md";
 const specialsCourses = [
     {
         id: 1,
-        title: "Desenvolvimento Web",
-        descrição: "HTML, CSS, JavaScript e frameworks modernos para criar sites responsivos.",
+        title: "React para Iniciantes",
+        descrição: "Aprenda os fundamentos do React e construa interfaces de usuário interativas",
         link: "/cursos/desenvolvimento-web",
     },
     {
@@ -16,8 +16,8 @@ const specialsCourses = [
     },
     {
         id: 3,
-        title: "Node.js",
-        descrição: "Do básico ao avançado, aprenda Node.js para desenvolvimento de aplicações backend robustas.",
+        title: "Javascript Avançado",
+        descrição: "Do básico ao avançado, aprenda Javascript para desenvolvimento de aplicações web modernas.",
         link: "/cursos/canal-3"
     }
 ]

@@ -5,7 +5,6 @@
         "canal": "Curso em Vídeo",
         "imgPlaylist": "https://i.ytimg.com/vi/1-w1RfGIov4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDSwaSfu4dcZJT_NKQFGkXO6ksI-A",
         "LinkPlaylist": "https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=Jnr1-vbHg38E2SXp",
-        "professor": "Gustavo Guanabara",
         "aulas": "33"
     },
     {
@@ -179,7 +178,7 @@
         "id": 23,
         "curso": "PHP",
         "canal": "Curso em Vídeo",
-        "imgPlaylist": "https://i.ytimg.com/vi/F7KzJ7e6EAc/hqdefault.jpg",
+        "imgPlaylist": "https://i.ytimg.com/vi/F7KzJ7e6EAc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA9auKXpW_hXxySW6g9eSn6OS8WDw",
         "LinkPlaylist": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k",
         "aulas": "24"
     },
