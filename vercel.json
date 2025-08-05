@@ -2,10 +2,5 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "framework": "nextjs",
-  "regions": ["gru1"],
-  "functions": {
-    "app/**/*.tsx": {
-      "runtime": "@vercel/node"
-    }
-  }
+  "regions": ["gru1"]
 }
