@@ -6,9 +6,9 @@ import { MdNavigateNext } from "react-icons/md";
 export default function ImageBackground() {
     return(
         <section className="relative h-[520px] overflow-hidden mb-6 pt-18">
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-950 to-slate-950/60 z-10"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-950 to-slate-950/40 z-10"></div>
         <Image
-          src="/foto1.jpg"
+          src="/foto2.jpg"
           alt="Programming and Software Development"
           width={1920}
           height={520}
